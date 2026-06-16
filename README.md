@@ -87,5 +87,7 @@ Python 3.11+, FastAPI, Pydantic, Shapely, NumPy, Matplotlib, Uvicorn
 
 ## Ссылки
 Исходный код проекта: https://github.com/Lumi4s/uav-quarry-mission-planner.git
+
 Демонстрация работы: ЗАГЛУШКА
+
 Презентация: ЗАГЛУШКА
