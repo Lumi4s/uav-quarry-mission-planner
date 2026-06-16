@@ -1,6 +1,6 @@
 # Project_UAV
 
-## [Скачать презентацию (PPTX)](./Presentation.pptx)
+## [Presentation.pptx](https://github.com/user-attachments/files/29000965/Presentation.pptx)
 
 ## Видео:
 https://github.com/user-attachments/assets/6f886346-a5bb-4dac-8554-8a1a09cfabc8
