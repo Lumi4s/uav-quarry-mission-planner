@@ -2,7 +2,8 @@
 
 [Скачать презентацию (PPTX)](./Presentation.pptx)
 
-[![Видео демонстрации](docs/preview.png)](./Video.mp4)
+Видео:
+https://github.com/user-attachments/assets/6f886346-a5bb-4dac-8554-8a1a09cfabc8
 
 ## Цель проекта:
 Оптимизация маршрутов беспилотных летательных аппаратов для аэрофотосъёмки карьеров.
