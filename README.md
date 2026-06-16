@@ -1,5 +1,9 @@
 # Project_UAV
 
+[Скачать презентацию (PPTX)](./Presentation.pptx)
+
+[![Видео демонстрации](docs/preview.png)](./Video.mp4)
+
 ## Цель проекта:
 Оптимизация маршрутов беспилотных летательных аппаратов для аэрофотосъёмки карьеров.
 
@@ -87,7 +91,3 @@ Python 3.11+, FastAPI, Pydantic, Shapely, NumPy, Matplotlib, Uvicorn
 
 ## Ссылки
 Исходный код проекта: https://github.com/Lumi4s/uav-quarry-mission-planner.git
-<br>
-Демонстрация работы: ЗАГЛУШКА
-<br>
-Презентация: ЗАГЛУШКА
