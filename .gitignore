@@ -1,0 +1,41 @@
+# === Виртуальное окружение ===
+.venv/
+venv/
+env/
+ENV/
+
+# === Кэш Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# === Генерируемые файлы проекта ===
+output/*.png
+missions/*.json
+
+# === IDE ===
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Логи ===
+*.log
+logs/
+
+# === Прочее ===
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
