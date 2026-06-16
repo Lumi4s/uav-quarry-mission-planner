@@ -1,0 +1,11 @@
+{
+  "quarry_polygon": [
+    {"x": 0,   "y": 0},
+    {"x": 100, "y": 0},
+    {"x": 100, "y": 100},
+    {"x": 0,   "y": 100}
+  ],
+  "flight_altitude": 120,
+  "flight_speed": 12,
+  "photo_overlap": 70
+}
